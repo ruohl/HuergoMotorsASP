@@ -1,0 +1,10 @@
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\bin\Debug\netstandard2.0\HuergoASPDTO.deps.json
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\bin\Debug\netstandard2.0\HuergoASPDTO.dll
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\bin\Debug\netstandard2.0\HuergoASPDTO.pdb
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.csproj.AssemblyReference.cache
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.AssemblyInfoInputs.cache
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.AssemblyInfo.cs
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.csproj.CoreCompileInputs.cache
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.dll
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.pdb

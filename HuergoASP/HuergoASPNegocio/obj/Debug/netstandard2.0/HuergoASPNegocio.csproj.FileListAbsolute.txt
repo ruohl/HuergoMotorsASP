@@ -1,0 +1,15 @@
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPNegocio.deps.json
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPNegocio.dll
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPNegocio.pdb
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPDatos.dll
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPDTO.dll
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPDatos.pdb
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPDTO.pdb
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.csproj.AssemblyReference.cache
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.AssemblyInfoInputs.cache
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.AssemblyInfo.cs
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.csproj.CoreCompileInputs.cache
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.csproj.CopyComplete
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.dll
+C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.pdb
