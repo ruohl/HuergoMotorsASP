@@ -8,3 +8,13 @@ C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\Huer
 C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.csproj.CoreCompileInputs.cache
 C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.dll
 C:\Users\slopp\source\repos\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.pdb
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDTO\bin\Debug\netstandard2.0\HuergoASPDTO.deps.json
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDTO\bin\Debug\netstandard2.0\HuergoASPDTO.dll
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDTO\bin\Debug\netstandard2.0\HuergoASPDTO.pdb
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.csproj.AssemblyReference.cache
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.AssemblyInfoInputs.cache
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.AssemblyInfo.cs
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.csproj.CoreCompileInputs.cache
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.dll
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDTO\obj\Debug\netstandard2.0\HuergoASPDTO.pdb

@@ -11,3 +11,16 @@ C:\Users\slopp\source\repos\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\Hu
 C:\Users\slopp\source\repos\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.csproj.CopyComplete
 C:\Users\slopp\source\repos\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.dll
 C:\Users\slopp\source\repos\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.pdb
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\bin\Debug\netstandard2.0\HuergoASPDatos.deps.json
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\bin\Debug\netstandard2.0\HuergoASPDatos.dll
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\bin\Debug\netstandard2.0\HuergoASPDatos.pdb
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\bin\Debug\netstandard2.0\HuergoASPDTO.dll
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\bin\Debug\netstandard2.0\HuergoASPDTO.pdb
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.csproj.AssemblyReference.cache
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.AssemblyInfoInputs.cache
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.AssemblyInfo.cs
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.csproj.CoreCompileInputs.cache
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.csproj.CopyComplete
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.dll
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPDatos\obj\Debug\netstandard2.0\HuergoASPDatos.pdb

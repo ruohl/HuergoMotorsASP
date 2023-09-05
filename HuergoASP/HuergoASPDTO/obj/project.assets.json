@@ -859,11 +859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slopp\\source\\repos\\HuergoASP\\HuergoASPDTO\\HuergoASPDTO.csproj",
+      "projectUniqueName": "D:\\Carpeta Hardrive de Github\\HuergoMotorsASP\\HuergoASP\\HuergoASPDTO\\HuergoASPDTO.csproj",
       "projectName": "HuergoASPDTO",
-      "projectPath": "C:\\Users\\slopp\\source\\repos\\HuergoASP\\HuergoASPDTO\\HuergoASPDTO.csproj",
+      "projectPath": "D:\\Carpeta Hardrive de Github\\HuergoMotorsASP\\HuergoASP\\HuergoASPDTO\\HuergoASPDTO.csproj",
       "packagesPath": "C:\\Users\\slopp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slopp\\source\\repos\\HuergoASP\\HuergoASPDTO\\obj\\",
+      "outputPath": "D:\\Carpeta Hardrive de Github\\HuergoMotorsASP\\HuergoASP\\HuergoASPDTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

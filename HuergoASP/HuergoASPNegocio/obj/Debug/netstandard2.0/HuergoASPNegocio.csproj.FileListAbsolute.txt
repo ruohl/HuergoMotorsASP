@@ -13,3 +13,18 @@ C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\
 C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.csproj.CopyComplete
 C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.dll
 C:\Users\slopp\source\repos\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.pdb
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPNegocio.deps.json
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPNegocio.dll
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPNegocio.pdb
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPDatos.dll
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPDTO.dll
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPDatos.pdb
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\bin\Debug\netstandard2.0\HuergoASPDTO.pdb
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.csproj.AssemblyReference.cache
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.AssemblyInfoInputs.cache
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.AssemblyInfo.cs
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.csproj.CoreCompileInputs.cache
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.csproj.CopyComplete
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.dll
+D:\Carpeta Hardrive de Github\HuergoMotorsASP\HuergoASP\HuergoASPNegocio\obj\Debug\netstandard2.0\HuergoASPNegocio.pdb

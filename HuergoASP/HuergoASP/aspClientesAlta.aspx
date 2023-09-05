@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="contenidoDeMisPaginas" runat="server">
 
     <p>
-        ID:<asp:TextBox ID="txId" runat="server"></asp:TextBox>
+        ID:<asp:TextBox ID="txId" runat="server" ReadOnly="True"></asp:TextBox>
         <br />
         NOMBRE:<asp:TextBox ID="txNombre" runat="server"></asp:TextBox>
         <br />

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ix4h2MnxKy44IciOXvLX0u/GJOESPUY4W9V4RguVJ/SWlKUoWs53t2nWF/1MVVJNzAhxf8UCTb47AcO327GB7Q==",
+  "dgSpecHash": "yzGpzMN9Q1ePk2YEDuq3oFY8K2J2RHwuByQL15mm8nLPXf4I/SIdNvVqYkMl0BpiRKHBDmcwEGk4j+dsLKOpfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slopp\\source\\repos\\HuergoASP\\HuergoASPNegocio\\HuergoASPNegocio.csproj",
+  "projectFilePath": "D:\\Carpeta Hardrive de Github\\HuergoMotorsASP\\HuergoASP\\HuergoASPNegocio\\HuergoASPNegocio.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\slopp\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

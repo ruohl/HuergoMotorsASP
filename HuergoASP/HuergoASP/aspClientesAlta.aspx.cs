@@ -45,7 +45,7 @@ namespace HuergoASP
 		{
             if (btGuardar.Text == "Crear")
 			{
-                if (string.IsNullOrWhiteSpace(txId.Text) | string.IsNullOrWhiteSpace(txNombre.Text) | string.IsNullOrWhiteSpace(txDireccion.Text) | string.IsNullOrWhiteSpace(txTelefono.Text) | string.IsNullOrWhiteSpace(txEmail.Text) | string.IsNullOrWhiteSpace(txContraseña.Text))
+                if (string.IsNullOrWhiteSpace(txNombre.Text) | string.IsNullOrWhiteSpace(txDireccion.Text) | string.IsNullOrWhiteSpace(txTelefono.Text) | string.IsNullOrWhiteSpace(txEmail.Text) | string.IsNullOrWhiteSpace(txContraseña.Text))
 				{
                     lbInfo.Text = "Datos incompletos!";
                     return;

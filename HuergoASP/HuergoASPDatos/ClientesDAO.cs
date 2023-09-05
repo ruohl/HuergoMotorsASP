@@ -24,7 +24,7 @@ namespace HuergoASPDatos
                                     '{cliente.Email}',
                                     '{cliente.Contraseña}');";
 
-                using (System.Data.SqlClient.SqlCommand cmd = new System.Data.SqlClient.SqlCommand(query, conn))
+                using (SqlCommand cmd = new SqlCommand(query, conn))
                 {
                     cmd.ExecuteNonQuery();
                 }
@@ -39,7 +39,7 @@ namespace HuergoASPDatos
 
                 string query = $"DELETE FROM Clientes WHERE Id = {id}";
 
-                using (System.Data.SqlClient.SqlCommand cmd = new System.Data.SqlClient.SqlCommand(query, conn))
+                using (SqlCommand cmd = new SqlCommand(query, conn))
                 {
                     cmd.ExecuteNonQuery();
                 }
@@ -60,7 +60,7 @@ namespace HuergoASPDatos
                                       Contraseña = '{cliente.Contraseña}'
                                 WHERE Id = {cliente.Id};";
 
-                using (System.Data.SqlClient.SqlCommand cmd = new System.Data.SqlClient.SqlCommand(query, conn))
+                using (SqlCommand cmd = new SqlCommand(query, conn))
                 {
                     cmd.ExecuteNonQuery();
                 }
@@ -97,9 +97,9 @@ namespace HuergoASPDatos
 
         public List<ClientesDTO> ReadAll(string filtro)
         {
-            System.Data.DataTable dt = new System.Data.DataTable();
+            DataTable dt = new DataTable();
 
-            using (System.Data.SqlClient.SqlDataAdapter da = new System.Data.SqlClient.SqlDataAdapter(
+            using (SqlDataAdapter da = new SqlDataAdapter(
                 $"SELECT * FROM Clientes WHERE Nombre LIKE '%{filtro}%'", DBHelper.ConnectionString))
             {
                 da.Fill(dt);

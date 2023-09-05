@@ -70,13 +70,33 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="aspAccesorios.aspx" />
+    <Content Include="aspAccesoriosAlta.aspx" />
     <Content Include="aspClientes.aspx" />
     <Content Include="aspClientesAlta.aspx" />
+    <Content Include="aspVehiculos.aspx" />
+    <Content Include="aspVehiculosAlta.aspx" />
+    <Content Include="aspVendedores.aspx" />
+    <Content Include="aspVendedoresAlta.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="aspAccesorios.aspx.cs">
+      <DependentUpon>aspAccesorios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspAccesorios.aspx.designer.cs">
+      <DependentUpon>aspAccesorios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspAccesoriosAlta.aspx.cs">
+      <DependentUpon>aspAccesoriosAlta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspAccesoriosAlta.aspx.designer.cs">
+      <DependentUpon>aspAccesoriosAlta.aspx</DependentUpon>
+    </Compile>
     <Compile Include="aspClientes.aspx.cs">
       <DependentUpon>aspClientes.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -90,6 +110,34 @@
     </Compile>
     <Compile Include="aspClientesAlta.aspx.designer.cs">
       <DependentUpon>aspClientesAlta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspVehiculos.aspx.cs">
+      <DependentUpon>aspVehiculos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspVehiculos.aspx.designer.cs">
+      <DependentUpon>aspVehiculos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspVehiculosAlta.aspx.cs">
+      <DependentUpon>aspVehiculosAlta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspVehiculosAlta.aspx.designer.cs">
+      <DependentUpon>aspVehiculosAlta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspVendedores.aspx.cs">
+      <DependentUpon>aspVendedores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspVendedores.aspx.designer.cs">
+      <DependentUpon>aspVendedores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspVendedoresAlta.aspx.cs">
+      <DependentUpon>aspVendedoresAlta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspVendedoresAlta.aspx.designer.cs">
+      <DependentUpon>aspVendedoresAlta.aspx</DependentUpon>
     </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
